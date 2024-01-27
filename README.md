@@ -16,18 +16,7 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
-  </div>
-  
-  <hr/>
-  
-</body>
 
+<h2></h2>
 
-
-
-</html>
-
-<!---
-VaderNgo/VaderNgo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VaderNgo&bg_color=000000&color=73c232&line=1af492&point=ffffff&area=true&hide_border=true)
