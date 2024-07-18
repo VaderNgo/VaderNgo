@@ -3,7 +3,7 @@
 <body>
 	<h2>About Me</h2>
 	<p>
-		👋 Hi there! I'm a solo developer with hands-on experience in game development, web, app creation, and 3D projects. With strong programming skills and effective communication abilities, I'm ready to tackle any challenge. Let's collaborate and create something amazing together!
+		👋 Hi there! I'm a software engineer with hands-on experience in game development, web, app creation, and 3D projects. With strong programming skills and effective communication abilities, I'm ready to tackle any challenge. Let's collaborate and create something amazing together!
 	</p>
 	<h2>Stats</h2>
 	<p align="center">
