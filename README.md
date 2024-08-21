@@ -3,7 +3,18 @@
 <body>
 	<h2>About Me</h2>
 	<p>
-		👋 Hi there! I'm a software engineer with hands-on experience in game development, web, app creation, and 3D projects. With strong programming skills and effective communication abilities, I'm ready to tackle any challenge. Let's collaborate and create something amazing together!
+		👋 Hi there! I'm a passionate software engineer with 1+ years of experience developing server applications for small and medium-sized businesses. My primary focus is on crafting efficient, scalable full-stack solutions that help clients achieve their business goals.
+
+💻 Tech Stack:
+
+ - Languages: JavaScript, TypeScript, Java
+ - Frameworks: Node.js, Spring Boot, React.js
+ - Databases: MongoDB, PostgreSQL
+🚀 I'm driven by a desire to build software that makes a difference and enhances the user experience. Whether it's creating seamless backend systems or intuitive front-end interfaces, I’m always looking to innovate and improve.
+
+🌱 Currently exploring: Advanced cloud solutions and microservices architecture.
+
+🤝 Let's collaborate! I'm open to working on exciting projects and learning from others in the developer community. Feel free to reach out if you'd like to connect!
 	</p>
 	<h2>Stats</h2>
 	<p align="center">
