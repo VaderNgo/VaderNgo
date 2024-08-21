@@ -8,11 +8,9 @@
 💻 Tech Stack:
 
  - Languages: JavaScript, TypeScript, Java
- - Frameworks: Node.js, Spring Boot, React.js
+ - Frameworks: Node.js, Nest.js, Spring Boot, React.js
  - Databases: MongoDB, PostgreSQL
 🚀 I'm driven by a desire to build software that makes a difference and enhances the user experience. Whether it's creating seamless backend systems or intuitive front-end interfaces, I’m always looking to innovate and improve.
-
-🌱 Currently exploring: Advanced cloud solutions and microservices architecture.
 
 🤝 Let's collaborate! I'm open to working on exciting projects and learning from others in the developer community. Feel free to reach out if you'd like to connect!
 	</p>
