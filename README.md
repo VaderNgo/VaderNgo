@@ -7,9 +7,12 @@
 
 💻 Tech Stack:
 
- - Languages: JavaScript, TypeScript, Java
- - Frameworks: Node.js, Nest.js, Spring Boot, React.js, Three.js
- - Databases: MongoDB, PostgreSQL, Redis
+ - Languages: Java, JavaScript, TypeScript, SQL
+ - Frontend: ReactJS, NextJS, Kotlin
+ - Backend: NodeJS, NestJS, Spring Boot
+ - Database: PostgreSQL, Redis
+ - Tools: Docker, WebSocket
+ - Cloud: AWS, Azure
 🚀 I'm driven by a desire to build software that makes a difference and enhances the user experience. Whether it's creating seamless backend systems or intuitive front-end interfaces, I’m always looking to innovate and improve.
 
 🤝 Let's collaborate! I'm open to working on exciting projects and learning from others in the developer community. Feel free to reach out if you'd like to connect!
